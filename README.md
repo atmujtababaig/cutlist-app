@@ -1,7 +1,6 @@
 # Cutlist
 
-A video editor built around Remotion projects: a timeline, a live preview, and export on this
-computer (plus GitHub's computers, if you connect GitHub).
+A video editor built around Remotion projects: a timeline, a live preview and export.
 
 ## Install
 
